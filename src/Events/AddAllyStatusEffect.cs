@@ -51,8 +51,6 @@ namespace OutwardModTemplate
 
     public class SLEx_AddAllyStatusEffect : Effect, ICustomModel
     {
-      public float SummonLifeSpan = 180f;
-
       public Type SLTemplateModel => typeof( SL_AddAllyStatusEffect );
       public Type GameModel => typeof( SLEx_AddAllyStatusEffect );
 
