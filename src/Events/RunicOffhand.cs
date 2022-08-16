@@ -2,7 +2,7 @@ using SideLoader;
 using System;
 using UnityEngine.Serialization;
 
-namespace OutwardModTemplate
+namespace SideLoader_ExtendedEffects.Events
 {
   public class SL_RunicOffhand : SL_RunicBlade, ICustomModel
   {
